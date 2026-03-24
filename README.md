@@ -81,7 +81,7 @@ The dashboard provides insights into key marketing metrics such as impressions, 
 ![KPIs](dashboard/kpis.png)
 
 ### Data Model
-![Data Model](<Data Model/data_models.png>)
+![Data Model](Data%20Model/data_models.png)
 
 ### Other Visualizations
 ![full charts](dashboard/full_charts.png)
